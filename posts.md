@@ -1,1 +1,2 @@
 - [gdb Debugging Full Example (Tutorial): ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
+- [How main() is executed on Linux](http://www.tldp.org/LDP/LG/issue84/hawk.html)
